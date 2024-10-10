@@ -3,7 +3,7 @@
   <h3 align="center">Clear Cache Fivem</h3>
 
   <p align="center">
-    Un .bat qui vide ton cache automatiquement !
+Clear your FiveM cache simplely
     <br/>
     <br/>
     <a href="https://github.com/o-lumix/Clear-Cache-Fivem-BAT/issues">Report Bug</a>
@@ -22,18 +22,12 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## Getting Started
-
-Il suffit juste d'ouvrir le .bat il se ferme automatiquement et c'est bon !
 
 ### Installation
 
-1. Télécharger le bat
-
-2. le lancer
-3. il se ferme automatiquement et c'est bon !
-
-4. Bon Jeu !
+1. Download the last Release
+2. Launch
+3. Type 1 and press Enter
 
 ## Roadmap
 
